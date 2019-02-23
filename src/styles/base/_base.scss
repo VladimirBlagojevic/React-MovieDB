@@ -42,7 +42,11 @@ body {
     
 }
 
-
+ a:link,
+ a:active,
+ a:visited {
+  color:white;
+}
 .selected{
     color:red;
 }
